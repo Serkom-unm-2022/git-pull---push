@@ -1,11 +1,11 @@
 # Cara Pull
 
 ```
-git config --global user.name "UsernameAnda"
+git config --global user.name "Isi Username Anda"
 ```
 
 ```
-git config --global user.email IsiDenganEmailAnda@gmail.com
+git config --global user.email "Isi Dengan EmailAnda@gmail.com"
 ```
 
 ```
