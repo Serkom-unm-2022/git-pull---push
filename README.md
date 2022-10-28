@@ -32,7 +32,7 @@ git remote add origin https://github.com/Serkom-unm-2022/git-pull---push.git
 git push -u origin Master
 ```
 
-# Cara Push
+# Cara Pull
 
 ```
 git remote add origin https://github.com/Serkom-unm-2022/git-pull---push.git
@@ -43,5 +43,5 @@ git branch -M Master
 ```
 
 ```
-git push -u origin Master
+git pull origin master
 ```
